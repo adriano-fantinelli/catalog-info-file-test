@@ -11,4 +11,4 @@ metadata:
 spec:
   type: component
   lifecycle: development
-  owner: innersource-collaborators
+  owner: "group:default/innersource-collaborators"
