@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: catalog-info-file-test
+  description: A repository that tests catalog-info.yaml file.
+  annotations:
+    backstage.io/source-location: url:https://github.com/adriano-fantinelli/catalog-info-file-test
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - test
+spec:
+  type: component
+  lifecycle: development
+  owner: user:afantinelli.consultant
