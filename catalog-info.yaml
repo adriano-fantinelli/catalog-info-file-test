@@ -10,4 +10,4 @@ metadata:
 spec:
   type: component
   lifecycle: development
-  owner: innersource-collaborators
+  owner: user:afantinelli.consultant
