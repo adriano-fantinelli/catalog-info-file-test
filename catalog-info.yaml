@@ -10,4 +10,4 @@ metadata:
 spec:
   type: component
   lifecycle: development
-  owner: gt-mobile
+  owner: user:afantinelli.consultant
